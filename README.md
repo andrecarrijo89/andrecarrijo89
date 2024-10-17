@@ -1,12 +1,22 @@
 - 👋 Hi, I’m @andrecarrijo89
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-andrecarrijo89/andrecarrijo89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Lista de Tarefas
+
+Um simples aplicativo de lista de tarefas em JavaScript, HTML e CSS.
+
+## Funcionalidades
+
+- Adicionar novas tarefas.
+- Marcar tarefas como concluídas.
+- Remover tarefas.
+- Salvar tarefas no localStorage.
+
+## Como usar
+
+1. Clone o repositório ou baixe os arquivos.
+2. Abra o `index.html` em um navegador.
+3. Adicione, complete e remova tarefas conforme necessário.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
